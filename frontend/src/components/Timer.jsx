@@ -7,7 +7,7 @@ import SettingButton from "./SettingButton.jsx";
 
 const red = '#FF0032';
 const green = '#4AEC8C'; 
-const white = '#FFFFFD'
+const white = '#FFFFFD';
 
 // /* Color Theme Swatches in Hex */
 // .Pomodoro-Timer-1-hex { color: #FFFFFD; } white
